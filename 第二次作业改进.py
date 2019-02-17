@@ -44,8 +44,6 @@ Med2 = 0
 for value in lists.values():
     Med2 =Med2 + (value-average(lists))**2
 Med = (Med2/len(lists))**0.5
-print(Med)
-print(average(lists))
 
 for value in lists.values():
     S = average(lists)+2*Med
