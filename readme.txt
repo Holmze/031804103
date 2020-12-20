@@ -1,1 +1,0 @@
-Cristiano Ronaldo is the Greatest of All Time.
